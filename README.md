@@ -12,6 +12,7 @@ Activities: **Crossing, Waiting, Queueing, Walking, Talking**
 ---
 
 ## 📂 Project Structure
+
 datasets/
 ├── collective_activity_dataset/
 │ ├── person_sequences/
