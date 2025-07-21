@@ -11,31 +11,6 @@ Activities: **Crossing, Waiting, Queueing, Walking, Talking**
 
 ---
 
-## 📂 Project Structure
-
-datasets/
-├── collective_activity_dataset/
-│ ├── person_sequences/
-│ ├── seq01/
-│ ├── seq02/
-│ └── ...
-models/
-├── person_model.py
-├── group_model.py
-outputs/
-├── saved_models/
-│ ├── cnn_extractor.pth
-│ └── group_model.pth
-scripts/
-├── train_person_model.py
-├── train_group_model.py
-├── evaluate_group_model.py
-utils/
-requirements.txt
-README.md
-
----
-
 ## 🚀 Pipeline Architecture (CNN + LSTM)
 
 <p align="center">
