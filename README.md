@@ -2,8 +2,10 @@
 
 ## 📄 Project Overview
 
-This project implements a **Hierarchical CNN + LSTM pipeline** for recognizing **group activities** from video sequences, following the principles described in:  
-> "A Hierarchical Deep Temporal Model for Group Activity Recognition"
+This project implements a **Hierarchical CNN + LSTM pipeline** for recognizing **group activities** from video sequences, inspired by the paper:  
+> **"A Hierarchical Deep Temporal Model for Group Activity Recognition"**  
+> *Mostafa S. Ibrahim, Shengyu Zhang, Stan Sclaroff, Margrit Betke*  
+> [https://arxiv.org/abs/1511.06040](http://arxiv.org/pdf/1511.06040)
 
 ### **Dataset:**
 **Collective Activity Dataset (University of Michigan / Stanford CVGL)**  
