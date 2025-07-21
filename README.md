@@ -39,7 +39,7 @@ python scripts/train_group_model.py
 ```
 ---
 
-##📊 Evaluation
+## 📊 Evaluation
 ```bash
 python scripts/evaluate_group_model.py
 ```
